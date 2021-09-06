@@ -97,8 +97,6 @@ If you think any of the roadmaps can be improved, feel free to discuss it in the
 </div>
 
 <br>
-
-
 ## License
 
 Have a look at the [license file](./LICENSE) for details
